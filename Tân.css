@@ -1,0 +1,189 @@
+html{
+    font-size: 20px;
+    font-family:'Times New Roman', Times, serif;
+    -webkit-tap-highlight-color:red;
+    display: block;
+    box-sizing: border-box;
+}
+
+.Tong {
+    background-color: #fff;
+    font-size: 20px;
+    line-height: 23px;
+    font-family: 'Times New Roman', Times, serif;
+    height: 1px;
+}
+
+.logo img {
+    margin-left: 10px;
+}
+
+.logo p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+
+.logo a{
+    text-decoration: none;
+}
+
+.logo{
+    margin-left: 150px;
+    float: left;
+    margin-right: 10px;
+}
+
+.timkiem input {
+    font-size: 20px;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+
+.dau{
+    margin-bottom: 60px;
+    margin-left: 300px;
+    margin-top: 50px;
+}
+
+.gioithieu{
+    height: 100px;
+    width: 100%;
+    border:1px solid black ;
+    font-size: 23px;
+    background-color: pink;
+    margin-top: 80px;
+}
+
+.gioithieu li a {
+    text-decoration: none;
+    color: white;
+    margin-right: 10px;
+}
+
+.gioithieu ul {
+    list-style-type: none;
+}
+
+
+.than1 {
+    width:260px;
+    height: 400px;
+    border: 1px solid black;
+    margin-top: 20px;
+    margin-left:50px ;
+    float: left;
+}
+
+.than1 li {
+    margin-top: 10px;
+}
+
+.than1 li a{
+    text-decoration: none;
+}
+
+.than1 ul {
+    list-style-type: none;
+}
+
+.than1 h4 {
+    margin-left: 15px;
+}
+
+.than2 {
+    float: right;
+}
+
+.than2 h1{
+    position: relative;
+    right: 220px;
+}
+
+.than21 {
+    position: relative;
+    right: 600px;
+}
+
+.than21 img  {
+    margin-top: 20px;
+    margin-left: 30px;
+}
+
+.than22{
+   float: right;
+   margin-left: 30px;
+   position: relative;
+   top: -430px;
+}
+
+.than23 {
+    margin-left: 30px;
+    position: relative;
+    top: -400px;
+}
+
+.than24 {
+    margin-left: 30px;
+    position: relative;
+    top: -360px;
+}
+
+.than3 p{
+    margin-top: 550px;
+    text-align: justify;
+    text-indent: 15px;
+}
+
+.doitac{
+    clear: right;
+    position: relative;
+    top: -350px;
+}
+
+.thongtin {
+    position: relative;
+   bottom: 300px;
+   width: 100%;
+   height: auto;
+   border: 1px solid black;
+   color: #fff;
+   background-color: black;
+   display: flex;
+}
+
+.lienhe{
+    float: left;
+}
+
+.lienhe1 a {
+    text-decoration: none;
+}
+
+.anh a img {
+    margin-left: 50px;
+}
+
+.hotro ul {
+    list-style-type: none;
+}
+
+.hotro li a{
+    text-decoration: none;
+}
+
+.hotro h3{
+     margin-left: 40px;
+}
+
+.diachi h3 {
+    margin-left: 40px;
+}
+
+.diachi1 ul {
+    list-style-type: none;
+}
+
+.diachi1 li a {
+    text-decoration: none;
+}
+
